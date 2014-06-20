@@ -3,9 +3,6 @@
   // if there are no open files in the current group?
   "list_by_window_fallback" : true,
 
-  // Don´t list current file?
-  "skip_current_file" : false,
-
   // If 'skip_current_file' is 'false'
   // you can mark the current file with a string:
   "mark_current_file_char" : "●",

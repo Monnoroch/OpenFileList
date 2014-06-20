@@ -1,4 +1,0 @@
-[
-    { "keys": ["alt+option+l"], "command": "open_file_list", "args": {"list_mode": "active_group"}  },
-    { "keys": ["alt+shift+option+l"], "command": "open_file_list", "args": {"list_mode": "window"}  }
-]
