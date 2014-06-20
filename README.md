@@ -21,14 +21,3 @@ Settings
 
 By default, the setting <kbd>list_by_window_fallback</kbd> is set to <kbd>true</kbd> to display a list of all the open files in the current window if there's no open file on the current group. You may set this value to <kbd>false</kbd> to avoid this, and no files list will be shown.
 
-
-Credits
--------
-
-**Created by**
-
-Kohichi Aoki - [GitHub](https://github.com/drikin) | [drikin.com](http://drikin.com/)
-
-**Contributors:**
-
-Jesus Leon - [GitHub](https://github.com/iamjessu) | [Twitter](https://twitter.com/iamjessu)
